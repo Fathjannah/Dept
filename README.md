@@ -1,0 +1,81 @@
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Upcoming Placements</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<section class="placements">
+
+<h2>Upcoming Placements</h2>
+
+<div class="cards">
+
+<div class="card">
+<h3>ThoughtBox Online Services Pvt Ltd Hiring 2025</h3>
+<p>
+We are excited to announce that ThoughtBox Online Services Pvt Ltd
+is hiring for the role of Software Developer Trainee &
+Software Tester Trainee.
+</p>
+</div>
+
+<div class="card">
+<h3>Hyosung T & D India Private Limited Hiring 2025</h3>
+<p>
+We are planning to conduct an offline recruitment drive
+for B.Tech students of Electrical and Mechanical branches
+in collaboration with Hyosung T & D India.
+</p>
+</div>
+
+<div class="card">
+<h3>Campus Recruitment 2025 @ KMEA</h3>
+<p>
+Campus Recruitment 2025 at KMEA Engineering College.
+Fresh graduates must be willing to relocate to UAE.
+Deadline: 16-10-2025
+</p>
+</div>
+
+</div>
+
+</section>
+
+
+<section class="about">
+
+<div class="left">
+<h2>KMEA Engineering College</h2>
+<p>
+We don’t just give students an education and experiences that set
+them up for success in a career. We help them discover a field
+they’re passionate about.
+</p>
+</div>
+
+<div class="right">
+
+<div class="box">
+<h3>Our Vision</h3>
+<p>To be a centre of excellence in academics and research.</p>
+</div>
+
+<div class="box">
+<h3>Our Mission</h3>
+<p>To mould students into competent engineering professionals.</p>
+</div>
+
+<div class="box">
+<h3>Our Commitment</h3>
+<p>Dedicated to uplift the society through effective learning.</p>
+</div>
+
+</div>
+
+</section>
+
+</body>
+</html>
